@@ -1,10 +1,10 @@
 # Project 2. Анализ вакансий из Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Описание-проекта)  
-[2. Этапы проекта](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Этапы-проекта) 
-[3. Знакомство с данными](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Знакомство-с-данными)
-[4. Результаты](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Результаты)    
+[1. Описание проекта] (https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Описание-проекта)  
+[2. Этапы проекта] (https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Этапы-проекта) 
+[3. Знакомство с данными] (https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Знакомство-с-данными)
+[4. Результаты] (https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Результаты)    
 
 ### Описание проекта    
 Провести анализ данных вакансий hh.ru.
