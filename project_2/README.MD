@@ -1,9 +1,10 @@
 # Project 2. Анализ вакансий из Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Какой-кейс-решаем)  
-[3. Результаты](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Результаты)    
+[1. Описание проекта](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Описание-проекта)  
+[2. Этапы проекта](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Этапы проекта) 
+[3. Знакомство с данными](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Знакомство с данными)
+[4. Результаты](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Результаты)    
 
 
 ### Описание проекта    
@@ -78,6 +79,6 @@ EMPLOYERS_INDUSTRIES
 ![alt text](image-5.png)
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами](https://github.com/itbias/sf_data_science/blob/main/project_1/Project-1.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/itbias/Projects/tree/main/project_2/project_2.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Оглавление)
