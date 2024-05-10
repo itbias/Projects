@@ -1,10 +1,10 @@
 # Project 2. Анализ вакансий из Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Какой-кейс-решаем)  
-[3. Результаты](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Результаты)    
-
+[1. Описание проекта](https://github.com/itbias/Projects/tree/main/project_2/README.MD#Описание-проекта)  
+[2. Этапы проекта](https://github.com/itbias/Projects/tree/main/project_2/README.MD#Этапы-проекта) 
+[3. Знакомство с данными](https://github.com/itbias/Projects/tree/main/project_2/README.MD#Знакомство-с-данными)
+[4. Результаты](https://github.com/itbias/Projects/tree/main/project_2/README.MD#Результаты)    
 
 ### Описание проекта    
 Провести анализ данных вакансий hh.ru.
@@ -17,7 +17,7 @@
 
 **Условия:**  
 - Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке.
-- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Требования-к-оформлению-ноутбука).
+- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/itbias/Projects/tree/main/project_2/README.MD#Требования-к-оформлению-ноутбука).
 - Отправить свой код ментору для code-ревью. 
 
 **Требования к оформлению ноутбука**     
@@ -29,7 +29,7 @@
 - Выводы можно дополнительно проиллюстрировать с помощью графиков. Они оформляются в соответствии с теми правилами, которые мы приводили в модуле по визуализации данных.
 - Не забудьте удалить ячейку с данными соединения перед фиксацией работы в GitHub.
 
-### Знакомство с данными:  
+### Знакомство с данными
 Все необходимые таблицы находятся в схеме public базы данных project_sql (именно эту базу вам необходимо указать в параметре dbname при подключении).
 
 То есть параметры подключения будут следующими:
@@ -78,6 +78,6 @@ EMPLOYERS_INDUSTRIES
 ![alt text](image-5.png)
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами](https://github.com/itbias/sf_data_science/blob/main/project_1/Project-1.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/itbias/Projects/tree/main/project_2/project_2.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/itbias/Projects/tree/main/project_2/README.MD#Оглавление)
