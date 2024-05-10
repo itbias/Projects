@@ -1,10 +1,10 @@
 # Project 2. Анализ вакансий из Head Hunter
 
 ## Оглавление  
-[1. Описание проекта] (https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Описание-проекта)  
-[2. Этапы проекта] (https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Этапы-проекта) 
-[3. Знакомство с данными] (https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Знакомство-с-данными)
-[4. Результаты] (https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Результаты)    
+[1. Описание проекта](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Описание-проекта)  
+[2. Этапы проекта](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Этапы-проекта) 
+[3. Знакомство с данными](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Знакомство-с-данными)
+[4. Результаты](https://github.com/itbias/Projects/tree/main/project_2/Readme.md#Результаты)    
 
 ### Описание проекта    
 Провести анализ данных вакансий hh.ru.
@@ -29,7 +29,7 @@
 - Выводы можно дополнительно проиллюстрировать с помощью графиков. Они оформляются в соответствии с теми правилами, которые мы приводили в модуле по визуализации данных.
 - Не забудьте удалить ячейку с данными соединения перед фиксацией работы в GitHub.
 
-### Знакомство с данными:  
+### Знакомство с данными
 Все необходимые таблицы находятся в схеме public базы данных project_sql (именно эту базу вам необходимо указать в параметре dbname при подключении).
 
 То есть параметры подключения будут следующими:
