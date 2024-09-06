@@ -8,3 +8,4 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 1.Анализ базы данных резюме c Head Hunter](https://github.com/itbias/Projects/tree/main/project_1)
 * [Проект 2. Анализ вакансий c hh.ru](https://github.com/itbias/Projects/tree/main/project_2)
 * [Проект 3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/itbias/Projects/tree/main/project_3)
+* [Проект 4. Задача классификации](https://github.com/itbias/Projects/tree/main/project_4)
