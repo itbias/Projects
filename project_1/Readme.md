@@ -35,6 +35,6 @@
 - Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.
 
 ### Результаты:  
-[Ноутбук с выполненными заданиями и выводами](https://github.com/itbias/sf_data_science/blob/main/project_1/Project-1.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/itbias/sf_data_science/blob/main/project_1/project_1.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/itbias/sf_data_science/edit/main/project_1/Readme.md#Оглавление)
