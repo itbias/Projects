@@ -7,3 +7,4 @@
 * [Проект 4. Задача классификации](https://github.com/itbias/Projects/tree/main/project_4)
 * [Проект 5. Задача регрессии](https://github.com/itbias/Projects/tree/main/project_5)
 * [Проект 6. Задача кластеризации](https://github.com/itbias/Projects/tree/main/project_6)
+* [Итоговый проект (1 год обучения)](https://github.com/itbias/Projects/tree/main/Final_project)
