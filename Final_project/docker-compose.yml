@@ -1,0 +1,23 @@
+services:
+  pipeline:
+    build: .
+    container_name: oil_gas_pipeline
+    command: python main.py
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./configs:/app/configs
+    restart: "no"
+
+  app:
+    build: .
+    container_name: oil_gas_dashboard
+    command: streamlit run app.py --server.port=8501 --server.address=0.0.0.0
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./configs:/app/configs
+    depends_on:
+      - pipeline

@@ -1,0 +1,8 @@
+changepoint_prior_scale: 0.044809759182149515
+changepoint_range: 0.8438216972802828
+daily_seasonality: false
+n_changepoints: 25
+seasonality_mode: additive
+seasonality_prior_scale: 0.03613894271216528
+weekly_seasonality: false
+yearly_seasonality: true
