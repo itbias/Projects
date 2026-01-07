@@ -84,7 +84,7 @@ docker compose run pipeline python main.py
 
 ## 📊 Dashboard Preview
 
-![Dashboard demo](assets/dashboard.gif)
+![Dashboard demo](https://github.com/itbias/Projects/blob/main/Final_project/assets/dashboard.gif)
 
 ### 📊 Что показывает dashboard
 1. Историческая динамика и качество модели
