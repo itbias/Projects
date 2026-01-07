@@ -81,6 +81,11 @@ docker compose up
 ```bash
 docker compose run pipeline python main.py
 ```
+
+## 📊 Dashboard Preview
+
+![Dashboard demo](assets/dashboard.gif)
+
 ### 📊 Что показывает dashboard
 1. Историческая динамика и качество модели
 - Фактические данные
